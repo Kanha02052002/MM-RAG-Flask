@@ -4,3 +4,4 @@ chromadb
 sentence_transformers
 pillow
 werkzeug
+gunicorn 
