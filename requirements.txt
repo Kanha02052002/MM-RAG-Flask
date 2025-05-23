@@ -1,0 +1,6 @@
+flask
+requests
+chromadb
+sentence_transformers
+pillow
+werkzeug
